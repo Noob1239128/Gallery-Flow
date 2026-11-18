@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lumina</string>
+    <string name="nav_photos">Fotos</string>
+    <string name="nav_albums">Alben</string>
+    <string name="nav_explore">Entdecken</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_vault">Tresor</string>
+    <string name="cd_import_photos">Fotos vom Gerät importieren</string>
+    <string name="cd_take_photo">Foto mit Kamera aufnehmen</string>
+    <string name="cd_back">Zurück</string>
+    <string name="cd_favorite">Favorit umschalten</string>
+    <string name="cd_share">Foto teilen</string>
+    <string name="cd_edit">Foto bearbeiten</string>
+    <string name="cd_info">EXIF &amp; Infos anzeigen</string>
+    <string name="cd_delete">In Papierkorb verschieben</string>
+    <string name="cd_vault_lock">In privaten Tresor verschieben</string>
+    <string name="cd_slideshow">Diashow starten</string>
+    <string name="cd_settings">Einstellungen</string>
+    <string name="cd_trash">Papierkorb</string>
+    <string name="cd_search">Fotos durchsuchen</string>
+</resources>

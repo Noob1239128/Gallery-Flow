@@ -1,0 +1,8 @@
+{
+  "name": "Lumina",
+  "description": "Professionelle Fotogalerie-App mit Wasserfall-Ansicht, Alben, Foto-Editor, Kollage-Studio, Diashow, EXIF-Metadaten, Farb-Suche, PIN-Tresor und Papierkorb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
